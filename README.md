@@ -1,2 +1,4 @@
 # latest_personal_profile_JS
-own personal website build with js
+technologies used on this project
+HTML, CSS, javaScript, bootstrap
+

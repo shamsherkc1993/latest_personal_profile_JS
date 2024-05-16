@@ -37,30 +37,10 @@ function changeTheme()
         document.getElementsByClassName("footer-section")[0].style.backgroundColor = "rgb(187, 105, 18)";
         document.getElementsByClassName("footer-section")[0].style.transition = "0.5s";
         document.getElementById('self-img').style.transition = "0.5s";
-
-
-
-    
-   
-   //for main button contactme and ask CV
-        // let mainBtnLength = document.getElementsByClassName("main-button");
-        // for (i = 0; i<=mainBtnLength.length; i++) 
-        // {
-        //     document.getElementsByClassName("main-button")[i].style.backgroundColor = "rgb(187, 105, 18)";
-        // }
-
-        //h3 style (my story and personal information)
        
     }
- 
-
 }
-//let chk = document.getElementsByClassName('change-theme');
 
-let bool =  (num1, num2) =>  num1 + num2
-
-
-console.log(bool(2,4));
 
 
 
